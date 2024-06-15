@@ -1,4 +1,4 @@
-FROM node:18.17.1
+FROM glibc/libc6-dev@2.36-9+deb12u3
 
 RUN npm install -g npm@9.1.3
 
