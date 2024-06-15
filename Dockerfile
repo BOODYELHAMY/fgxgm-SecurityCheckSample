@@ -1,4 +1,4 @@
-FROM  libwebp/libwebpmux3@1.2.4-0.2+deb12u1
+FROM  node@1.3.2-0.4
 
 RUN npm install -g npm@9.1.3
 
